@@ -1,4 +1,9 @@
-numpy
+# requirements.txt
+
 pandas
+numpy
 matplotlib
 scikit-learn
+tensorflow
+keras
+
